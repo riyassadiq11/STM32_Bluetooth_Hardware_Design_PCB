@@ -55,7 +55,7 @@ STM32WB55 uses an internal buck converter. VLXSMPS pin drives the inductor, SMPS
 
 ---
 
-### RF Front‑End
+### RF
 - RF output routed through **matching network (L3, capacitors)**. - **DLF162500LT low‑pass filter** ensures clean 2.4–2.5 GHz band. - **U.FL coaxial connector** for external antenna.  
 - Ground stitching vias improve impedance control and reduce noise.
 
