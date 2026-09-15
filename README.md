@@ -141,4 +141,4 @@ They include custom **STEP models** for the STM32WB55CEU6 microcontroller, the D
 These models ensure accurate mechanical alignment, proper component clearance, and a professional preview of the final board.  
 
 ![3D Top View](PCB_Top_Layer_(Img_Pdf_3D)/Top_View_3D.png)  
-![3D Bottom View](PCB_Bottom_Layer%20(Img_Pdf_3D)/Bottom_View_3D.png)
+![3D Bottom View](PCB_Bottom_layer%20(Img_Pdf_3D)/Bottom_View_3D.png)
