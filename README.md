@@ -111,3 +111,9 @@ MCU generates Bluetooth RF signal → passes through matching network → filter
 - Copper pour strategy (3 GND planes + 1 power plane)  
 - Gerber/BOM/pick‑and‑place generation  
 - Ground stitching & copper pour techniques  
+
+## 🖼️ Schematic
+
+The schematic illustrates the complete STM32WB55CEU6 Bluetooth hardware design, including power supply (LDO + SMPS), USB‑C interface with ESD protection, SWD debug header, RF front‑end with matching network and U.FL antenna connector, and peripheral components (UART, LED, crystals, push button).  
+
+![Schematic](Schematic_(Img_Svg_Pdf)/STM32WB55CEU6_Schematic.png)
