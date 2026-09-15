@@ -125,3 +125,11 @@ Silkscreen markings highlight pin labels and orientation for assembly.
 Copper pour on this layer is dedicated to the **GND plane**, ensuring stable return paths and reduced EMI.  
 
 ![Top Layer](PCB_Top_Layer_(Img_Pdf_3D)/Top_Layer_With_SilkScreen.png)
+
+## 🖼️ PCB Layout – Bottom Layer
+
+The bottom layer layout highlights the routing of power planes and supporting traces.  
+This layer is dedicated to the **power plane**, ensuring stable distribution of 3.3V and other supply rails across the board.  
+It complements the three GND planes (Front, In1, In2) by providing a clean separation of power and ground, improving signal integrity and reducing noise.  
+
+![Bottom Layer](PCB_Bottom_layer_(Img_Pdf_3D)/Bottom_Layer.png)
