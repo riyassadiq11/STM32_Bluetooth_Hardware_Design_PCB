@@ -133,3 +133,12 @@ This layer is dedicated to the **power plane**, ensuring stable distribution of 
 It complements the three GND planes (Front, In1, In2) by providing a clean separation of power and ground, improving signal integrity and reducing noise.  
 
 ![Bottom Layer](PCB_Bottom_layer_(Img_Pdf_3D)/Bottom_Layer.png)
+
+## 🖼️ 3D Views
+
+The 3D views provide a realistic visualization of the PCB assembly.  
+They include custom **STEP models** for the STM32WB55CEU6 microcontroller, the DLF162500LT‑5028A1 RF filter, and the 32.768 kHz crystal.  
+These models ensure accurate mechanical alignment, proper component clearance, and a professional preview of the final board.  
+
+![3D Top View](PCB_Top_Layer_(Img_Pdf_3D)/Top_View_3D.png)  
+![3D Bottom View](PCB_Bottom_Layer_(Img_Pdf_3D)/Bottom_View_3D.png)
