@@ -117,3 +117,11 @@ MCU generates Bluetooth RF signal → passes through matching network → filter
 The schematic illustrates the complete STM32WB55CEU6 Bluetooth hardware design, including power supply (LDO + SMPS), USB‑C interface with ESD protection, SWD debug header, RF front‑end with matching network and U.FL antenna connector, and peripheral components (UART, LED, crystals, push button).  
 
 ![Schematic](Schematic_(Img_Svg_Pdf)/STM32WB55CEU6_Schematic.png)
+
+## 🖼️ PCB Layout – Top Layer
+
+The top layer layout shows the placement of STM32WB55CEU6, USB‑C connector, RF front‑end, SWD header, and supporting components.  
+Silkscreen markings highlight pin labels and orientation for assembly.  
+Copper pour on this layer is dedicated to the **GND plane**, ensuring stable return paths and reduced EMI.  
+
+![Top Layer](PCB_Top_Layer_(Img_Pdf_3D)/Top_Layer_With_SilkScreen.png)
