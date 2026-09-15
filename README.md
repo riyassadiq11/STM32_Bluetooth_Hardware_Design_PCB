@@ -132,7 +132,7 @@ The bottom layer layout highlights the routing of power planes and supporting tr
 This layer is dedicated to the **power plane**, ensuring stable distribution of 3.3V and other supply rails across the board.  
 It complements the three GND planes (Front, In1, In2) by providing a clean separation of power and ground, improving signal integrity and reducing noise.  
 
-![Bottom Layer](PCB_Bottom_layer_(Img_Pdf_3D)/Bottom_Layer.png)
+![Bottom Layer](PCB_Bottom_layer%20(Img_Pdf_3D)/Bottom_Layer.png)
 
 ## 🖼️ 3D Views
 
@@ -141,4 +141,4 @@ They include custom **STEP models** for the STM32WB55CEU6 microcontroller, the D
 These models ensure accurate mechanical alignment, proper component clearance, and a professional preview of the final board.  
 
 ![3D Top View](PCB_Top_Layer_(Img_Pdf_3D)/Top_View_3D.png)  
-![3D Bottom View](PCB_Bottom_Layer_(Img_Pdf_3D)/Bottom_View_3D.png)
+![3D Bottom View](PCB_Bottom_Layer%20(Img_Pdf_3D)/Bottom_View_3D.png)
