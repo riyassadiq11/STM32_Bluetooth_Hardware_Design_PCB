@@ -110,7 +110,17 @@ MCU generates Bluetooth RF signal → passes through matching network → filter
 - ERC & DRC validation for schematic and PCB  
 - Copper pour strategy (3 GND planes + 1 power plane)  
 - Gerber/BOM/pick‑and‑place generation  
-- Ground stitching & copper pour techniques  
+- Ground stitching & copper pour techniques
+
+## Key Learnings:
+- MCU & Debugging: Gained detailed knowledge of STM32WB55 pin functions, SWD interface, and MCU working principles.
+- RF Engineering: Learned antenna integration, RF matching networks, and impedance‑controlled routing for Bluetooth signals.
+- USB Integration: Implemented USB‑C interface with differential pair matching, controlled impedance, and ESD protection.
+- Impedance Control: Calculated and applied trace width/spacing for 50 Ω single‑ended and 90 Ω differential pairs.
+- PCB Stack‑Up: Understood layer stackup, core and prepreg materials (e.g., 2126), and their role in signal integrity.
+- Manufacturing Readiness: Applied mounting holes, fiducial markers, and copper pour strategy (3 GND planes + 1 power plane).
+- Routing Techniques: Learned via diameter selection, trace width/spacing rules, and applying specific constraints for USB and RF connections.
+- Design Validation: Performed ERC and DRC checks to ensure error‑free schematic and PCB layout.
 
 ## 🖼️ Schematic
 
