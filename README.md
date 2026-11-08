@@ -15,7 +15,7 @@ Custom footprints and 3D models were created to ensure accurate visualization an
 - **Thickness:** 1.6 mm  
 - **Layers:** 4‑layer stackup  
 - **Copper Pour:**  
-  - **Layer 1 (Front):** GND plane  
+  - **Layer 1 (Front):** Signal layer  
   - **Layer 2 (In1):** GND plane  
   - **Layer 3 (In2):** GND plane  
   - **Layer 4 (Bottom):** Power plane  
